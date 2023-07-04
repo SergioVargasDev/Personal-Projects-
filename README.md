@@ -1,3 +1,3 @@
-# Personal-School-Projects-
+# Personal-Projects-
 
 Personal and academic projects
